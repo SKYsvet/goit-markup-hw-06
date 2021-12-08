@@ -435,6 +435,8 @@ body {
 
 .container-footer {
   display: flex;
+  align-items: baseline;
+  margin-right: 70px;
 }
 
 .logo-text-footer {
